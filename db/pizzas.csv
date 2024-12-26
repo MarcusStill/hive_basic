@@ -1,0 +1,11 @@
+id,name,description,price,category
+1,Pepperoni,"Spicy pepperoni pizza with extra cheese",12.50,Meat
+2,Margherita,"Classic tomato and mozzarella pizza",9.00,Vegetarian
+3,Vegetarian Supreme,"A medley of fresh vegetables",11.00,Vegetarian
+4,Meat Feast,"A carnivore's delight with various meats",15.00,Meat
+5,Hawaiian,"Ham and pineapple - a controversial classic",10.50,Special
+6,Chicken BBQ,"Tender chicken with tangy BBQ sauce",13.00,Meat
+7,Seafood Special,"Shrimp, tuna, and fresh herbs",14.50,Seafood
+8,Spicy Italian,"Spicy sausage and roasted peppers",12.00,Spicy
+9,Four Cheese,"A blend of four delicious cheeses",10.00,Vegetarian
+10,BBQ Chicken Feast,"Double portion of chicken with BBQ sauce",16.00,Meat
